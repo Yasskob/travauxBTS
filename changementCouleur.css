@@ -1,0 +1,10 @@
+img{
+	max-width: 400px;
+	position: absolute;
+	left: 850px; top: 390px;
+}
+p{
+	position: absolute;
+	left: 950px; top: 200px;
+	font-size: 50px;
+}
